@@ -4,8 +4,6 @@ function Page() {
 return (
 <div className="container">
     <div className="row">
-        {/* <p className="d-flex justify-content-center mt-5 text-box" style={{fontFamily:"monospace"}}>
-        Built with systeme.io | Privacy <br /> policy | Legal | Terms and <br /> conditions </p> */}
         <div className="mt-5" style={{ textAlign: "center", fontSize: "20px", fontFamily:"monospace" }}>
             Built with systeme.io|  Privacy <br /> policy | Legal | Terms and <br /> conditions
     </div>
@@ -26,8 +24,8 @@ return (
         <a href="https://t.me/falconfxsignals" style={{ textDecoration: "none", color: "white" }}>
                 <div className="mt-3 d-flex " style={{ textAlign: "center", fontSize: "20px",backgroundColor:"blue" }}>
             <i  class="fa-brands fa-telegram icon3 mt-4"></i>
-            <h2 className="mt-4">Join Telegram Channel</h2>
-            <i class="fa-brands fa-telegram icon3 mt-4 "></i>
+            <h4 className="mt-4">Join Telegram Channel</h4>
+            <i class="fa-brands fa-telegram icon3 mt-4"></i>
         </div>
         </a>
     </div>
