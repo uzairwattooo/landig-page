@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/landig-page/static/css/main.b84dbe3f.css",
-    "main.js": "/landig-page/static/js/main.f7be21a0.js",
+    "main.css": "/landig-page/static/css/main.d6a299c7.css",
+    "main.js": "/landig-page/static/js/main.a2b59ed3.js",
     "static/js/453.e10133bc.chunk.js": "/landig-page/static/js/453.e10133bc.chunk.js",
     "static/media/Logo.jpeg": "/landig-page/static/media/Logo.938c7f9313430064d581.jpeg",
     "index.html": "/landig-page/index.html",
-    "main.b84dbe3f.css.map": "/landig-page/static/css/main.b84dbe3f.css.map",
-    "main.f7be21a0.js.map": "/landig-page/static/js/main.f7be21a0.js.map",
+    "main.d6a299c7.css.map": "/landig-page/static/css/main.d6a299c7.css.map",
+    "main.a2b59ed3.js.map": "/landig-page/static/js/main.a2b59ed3.js.map",
     "453.e10133bc.chunk.js.map": "/landig-page/static/js/453.e10133bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b84dbe3f.css",
-    "static/js/main.f7be21a0.js"
+    "static/css/main.d6a299c7.css",
+    "static/js/main.a2b59ed3.js"
   ]
 }
