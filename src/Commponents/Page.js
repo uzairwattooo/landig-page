@@ -5,7 +5,7 @@ return (
 <div className="container">
     <div className="row">
         <div className="mt-5" style={{ textAlign: "center", fontSize: "20px", fontFamily:"monospace" }}>
-            Built with systeme.io|  Privacy <br /> policy | Legal | Terms and <br /> conditions.
+            Built with systeme.io|  Privacy <br /> policy | Legal | Terms and <br /> conditions
     </div>
         <img className="d-flex justify-content-center images" src={Logo} alt="" />
         <div className="mt-3" style={{ textAlign: "center", fontSize: "20px", fontFamily:"monospace",backgroundColor:"#a09556" }}>
